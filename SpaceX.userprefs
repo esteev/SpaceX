@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GO.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Hashim\Ammo\AmmoBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hashim\planeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\tankMovementController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hashim\Ammo\missileBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hashim\GameManager.cs" Line="124" Column="34" />
+      <File FileName="Assets\Scripts\Hashim\TerrainDestruction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalBulletDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NormalBulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoutPlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hashim\TerrainObjectSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hashim\EnemySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraShake.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PreLoader.cs" Line="20" Column="32" />
+      <File FileName="Assets\Scripts\GO.cs" Line="8" Column="17" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuSound.cs" Line="11" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
